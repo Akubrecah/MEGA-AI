@@ -10,7 +10,7 @@
     "OWNERS": {
       "description": "owner number",
       "required": true,
-      "value": ""
+      "value": "254791497858"
     },
     "BOTNAME": {
       "description": "Give your BOT a name",
