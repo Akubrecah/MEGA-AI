@@ -15,7 +15,7 @@
     "BOTNAME": {
       "description": "Give your BOT a name",
       "required": true,
-      "value": "MEGA-AI"
+      "value": "AKUBRECAH-AI"
     },
     "DATABASE_URL": {
       "description": "your mongodb database url",
@@ -30,7 +30,7 @@
     "MODE": {
       "description": "mode public or private",
       "required": true,
-      "value": ""
+      "value": "public"
     },
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
@@ -55,7 +55,7 @@
     "antidelete": {
       "description": "bot will forward deleted messages if you make it true",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "HOBBIES": {
       "description": "owners hobby for intro card",
@@ -70,7 +70,7 @@
     "OWNER_SKILLS": {
       "description": "skills for intro",
       "required": false,
-      "value": "JAVASCRIPT"
+      "value": "PYTHON, JAVASCRIPT"
     },
     "OWNER_STATUS": {
       "description": "current status for intro",
@@ -80,17 +80,17 @@
     "TIME_ZONE": {
       "description": "your time zone",
       "required": true,
-      "value": "Africa/Nairobi"
+      "value": "Africa/Kenya"
     },
     "OWNER_NAME": {
       "description": "your owner Name",
       "required": false,
-      "value": ""
+      "value": "Akubrecah"
     },
      "REMOVEBG_KEY": {
       "description": "your Remove background api key",
       "required": false,
-      "value": ""
+      "value": "hnTGyLB47UFCihRtNDfPBb4s"
     }
     },
     "buildpacks": [
