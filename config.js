@@ -6,11 +6,11 @@ import fs from 'fs'
 import dotenv from 'dotenv'
 dotenv.config()
 
-const defaultOwner = '923444844060';
+const defaultOwner = '254791497858';
 
 
 // Check for the OWNERS environment variable; if not found, use the default
-const ownervb = process.env.OWNERS || process.env.OWNER_NUMBER || '' ; // put your number here
+const ownervb = process.env.OWNERS || process.env.OWNER_NUMBER || '254791497858' ; // put your number here
 
 const ownerlist = ownervb.split(';');
 
@@ -39,7 +39,7 @@ global.keysneoxrrr = ['5VC9rvNx', 'cfALv5']
 global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
 global.lolkeysapi = ['GataDios']
 
-global.canal = 'https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07'
+global.canal = 'https://whatsapp.com/channel/0029Vb4CXnEIXnlr8UAF441B'
 
 
 global.APIs = {
@@ -71,13 +71,13 @@ global.APIKeys = {
 // Sticker WM
 global.premium = 'true'
 global.packname = 'MEGA-AI'
-global.author = 'GlobalTechInfo'
+global.author = 'Akubrecah'
 global.menuvid = 'https://i.imgur.com/2U2K9YA.mp4'
-global.igfg = ' Follow on Instagram\nhttps://www.instagram.com/global.techinfo'
-global.dygp = 'https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07'
-global.fgsc = 'https://github.com/GlobalTechInfo/MEGA-AI'
-global.fgyt = 'https://youtube.com/@GlobalTechInfo'
-global.fgpyp = 'https://youtube.com/@GlobalTechInfo'
+global.igfg = ' Follow on Instagram\nhttps://www.instagram.com/darypowel'
+global.dygp = 'https://whatsapp.com/channel/0029Vb4CXnEIXnlr8UAF441B'
+global.fgsc = 'https://github.com/Akubrecah/MEGA-AI'
+global.fgyt = 'https://youtube.com/@Akubrecah'
+global.fgpyp = 'https://youtube.com/@Akubrecah'
 global.fglog = 'https://i.ibb.co/G2dh9cB/qasim.jpg'
 global.thumb = fs.readFileSync('./assets/A.jpg')
 
